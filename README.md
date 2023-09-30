@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rominasepulvedaleal
 - 👀 I’m interested in coding, science, podcasts
-- 🌱 I’m currently learning Clinical Data Science using R and Python
-- 💞️ I’m looking to collaborate on proyect related to science, public health, epidemiology, clinical reseach, drug testing
+- 🌱 I’m currently learning data visualizations and SQL
+- 💞️ I’m looking to collaborate on proyect related to science, public health, migrations and educations.
 - 📫 How to reach me: my email is rdsepulv@gmail.com
 
 <!---
